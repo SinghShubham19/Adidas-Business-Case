@@ -214,7 +214,7 @@ The suggested action relies on the fact that operating margin is highest in onli
 
 [Link](https://public.tableau.com/app/profile/shubham.singh1195/viz/AdidasUSASalesDashboard/Dashboard1)
 - Snapshot
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- ![Screenshot (492)](https://user-images.githubusercontent.com/121576163/228964054-f4647580-6dc6-4b88-bb6b-2e39ba1ee099.png)
 
 
 
