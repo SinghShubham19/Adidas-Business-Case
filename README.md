@@ -1,4 +1,4 @@
-
+![Screenshot (493)](https://user-images.githubusercontent.com/121576163/228964585-b3c0617a-5bf3-490b-959c-9a7a87df9cc5.png)
 # Adidas Business Case
 
 Adidas AG is a German multinational corporation, founded and headquartered in Herzogenaurach, Bavaria, that designs and manufactures shoes, clothing and accessories. 
