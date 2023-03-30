@@ -41,7 +41,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-d
 
 The dataset has 13 columns described below: 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (487)](https://user-images.githubusercontent.com/121576163/228961607-605d4627-5876-41b4-8d77-378947ba9cba.png)
 
 ### Data Attributes
 - Retailer
