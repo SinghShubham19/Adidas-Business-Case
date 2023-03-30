@@ -150,8 +150,8 @@ The suggested action relies on the fact that operating margin is highest in onli
 **H0: Null Hypothesis**: The sales method has no effect on Operating Margin.
 
 **H1: Alternate Hypothesis**: Sales Method has a effect on Operating Margin
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (494)](https://user-images.githubusercontent.com/121576163/228965402-c7c69dbc-ac3d-459e-906e-8410ee09dd8a.png)
+![Screenshot (495)](https://user-images.githubusercontent.com/121576163/228965548-0047ed13-a389-4f6b-b08e-c593f5db9654.png)
 
     
 **Interpretation: Clearly, we see that the p value<0.05. Thus we reject the null hypothesis.**
