@@ -78,7 +78,7 @@ To increase operating profit, we can model Price Per Unit, Units Sold or Operati
 The following features had normal like distribution:
 1. Operating Margin
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (488)](https://user-images.githubusercontent.com/121576163/228962405-bfec9ae3-d08b-4241-bd48-207347150b82.png)
 
 2.Price per Unit
 
