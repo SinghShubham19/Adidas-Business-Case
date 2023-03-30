@@ -82,7 +82,7 @@ The following features had normal like distribution:
 
 2.Price per Unit
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (489)](https://user-images.githubusercontent.com/121576163/228962744-6e071d40-99f2-4e1d-85b2-e4f30beed195.png)
 
 Used the following z score function to remove outliers from above columns:
 
