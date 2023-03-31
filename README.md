@@ -172,7 +172,7 @@ The suggested action relies on the fact that operating margin is highest in onli
 **H1: Alternate Hypothesis**: Region has a effect on Operating Margin.
 
 ![Screenshot (500)](https://user-images.githubusercontent.com/121576163/229161779-d1482550-547a-4e5f-9dde-73040a7a6543.png)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (501)](https://user-images.githubusercontent.com/121576163/229172678-4c11c62a-09ed-43cc-bc77-fa7eae7c9b75.png)
 
 
     
@@ -189,8 +189,10 @@ The suggested action relies on the fact that operating margin is highest in onli
 **H0: Null Hypothesis:** The product has no effect on Operating Margin.
 
 **H1: Alternate Hypothesis:** Product has an effect on Operating Margin.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (502)](https://user-images.githubusercontent.com/121576163/229173001-eee0178a-493a-45fb-a2bc-981fdfc4e4ef.png)
+![Screenshot (503)](https://user-images.githubusercontent.com/121576163/229173063-1ef55eab-c4cd-4872-ba5c-2182358e1dd9.png)
+
 
     
 **Interpretation: Clearly, we see that the p value<0.05. Thus we reject the null hypothesis.**
