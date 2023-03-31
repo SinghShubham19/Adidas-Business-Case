@@ -128,8 +128,9 @@ def iqr_removal(y,x):
 
 ![Screenshot (490)](https://user-images.githubusercontent.com/121576163/228963285-06735c30-07d1-4041-b558-8a8e9c29fd62.png)
 
--
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- The table below summarizes key takeaways:
+
+![Screenshot (485)](https://user-images.githubusercontent.com/121576163/229158325-c8fee5a7-6a77-430e-9f27-af779a4978cc.png)
 ## Key Visualizations
 - Numerical Features by Sales Methods
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
