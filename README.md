@@ -207,12 +207,13 @@ The suggested action relies on the fact that operating margin is highest in onli
 **H0: Null Hypothesis:** The retailer has no effect on Operating Margin.
 
 **H1: Alternate Hypothesis:** Retailer has an effect on Operating Margin.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (505)](https://user-images.githubusercontent.com/121576163/229173423-28574753-ea27-46b2-8c54-4170d354e695.png)
+
 
 
     
-**Interpretation: We see that the p value<0.05 only when West Gear and Sports Direct are excluded. Thus we can't reject the null hypothesis.**
+**Interpretation: We see that the p value>0.05 when West Gear and Sports Direct are excluded. Thus we can't reject the null hypothesis.**
 
     
 **Conclusion: Our suggestion does not generalizes for wider population.**
