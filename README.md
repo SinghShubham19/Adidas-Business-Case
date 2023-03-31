@@ -140,10 +140,9 @@ def iqr_removal(y,x):
 
 ![Screenshot (498)](https://user-images.githubusercontent.com/121576163/229160163-dc6f077a-ae22-4d55-9787-0669b4fd0df6.png)
 
-- Numerical Features by Product
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-- Numerical Features by Retailer
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- **Numerical Features by Retailer**
+
+![Screenshot (499)](https://user-images.githubusercontent.com/121576163/229160663-0438dc37-323b-44f1-915e-2d25d4e04af7.png)
 
 ## ANOVA and Suggestion
 
