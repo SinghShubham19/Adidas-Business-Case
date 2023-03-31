@@ -170,7 +170,8 @@ The suggested action relies on the fact that operating margin is highest in onli
 **H0: Null Hypothesis**: The region has no effect on Operating Margin.
 
 **H1: Alternate Hypothesis**: Region has a effect on Operating Margin.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (500)](https://user-images.githubusercontent.com/121576163/229161779-d1482550-547a-4e5f-9dde-73040a7a6543.png)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
