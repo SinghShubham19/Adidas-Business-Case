@@ -124,11 +124,11 @@ def iqr_removal(y,x):
 
 ## Exploratory Data Analysis
 ### Key Insights
-1. **Sales spikes during change of seasons**: Spring (April-May) and Autumn (August-September).
+- **Sales spikes during change of seasons**: Spring (April-May) and Autumn (August-September).
 
 ![Screenshot (490)](https://user-images.githubusercontent.com/121576163/228963285-06735c30-07d1-4041-b558-8a8e9c29fd62.png)
 
-2.
+-
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Key Visualizations
 - Numerical Features by Sales Methods
