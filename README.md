@@ -133,9 +133,13 @@ def iqr_removal(y,x):
 ![Screenshot (485)](https://user-images.githubusercontent.com/121576163/229158325-c8fee5a7-6a77-430e-9f27-af779a4978cc.png)
 ## Key Visualizations
 - Numerical Features by Sales Methods
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (496)](https://user-images.githubusercontent.com/121576163/229159423-f04323ec-0648-4e4e-8f5c-5e9c1d5ec952.png)
+
 - Numerical Features by Region
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (498)](https://user-images.githubusercontent.com/121576163/229160163-dc6f077a-ae22-4d55-9787-0669b4fd0df6.png)
+
 - Numerical Features by Product
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 - Numerical Features by Retailer
