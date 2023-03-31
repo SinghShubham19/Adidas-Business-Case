@@ -32,7 +32,7 @@ For this case, I chose Tableau and python to analyze the data with the overall f
 - Removed outliers using z-score and inter quartile range methods.
 - Used data to choose the most appropriate business metric to optimize for profit.
 - **Suggested optimal sales method, product, region, gender and retailer to target to increase profits**
-- Conducted **ANOVA** to ensure generalizability of above steps to wider population.
+- **Conducted ANOVA to ensure generalizability of above steps to wider population.**
 - Attested an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/shubham.singh1195/viz/AdidasUSASalesDashboard/Dashboard1).
 
 ## Data Snapshot
