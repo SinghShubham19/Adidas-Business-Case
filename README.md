@@ -5,7 +5,7 @@ Adidas AG is a German multinational corporation, founded and headquartered in He
 
 ## Business Problem
 
-**Generate sales and profit insight of Adidas products across USA and thereby suggest methods to increase operating margin (overall profit).**
+**Generate sales and profit insight of Adidas products across USA and thereby suggest methods to increase operating profit.**
 
 
 ## Final Suggestions
